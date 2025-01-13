@@ -15,5 +15,5 @@ Efeitos". A partir daí, pedi ao ChatGPT para elaborar o conteudo com o tema de 
 Com o Ebook montado, fui ao Midjourney e pedi para criar ilustrações informando o tema de cada capitulo. Colei cada ilustração ao capitulo de referencia.
 
 ## 🚀 Resultados
-O resultado foi satisfatório. O tema foi abordado de forma relativamente profunda e bastante interessante.
+O resultado foi muito bom. O tema foi abordado de forma relativamente profunda e bastante interessante.
 
